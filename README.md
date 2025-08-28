@@ -22,6 +22,8 @@ This project tackles navigation under uncertainty, such as Gaussian sensor noise
 ## Results
 The PF-DQN outperforms a DRQN baseline, achieving faster learning and higher rewards.
 
+<img src="./assets/base.png" width="200"> 
+
 PF diagnostics: 
 
 <img src="./assets/ess.png" width="200"> 
